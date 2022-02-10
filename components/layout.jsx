@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from './layout.module.css'
-import utilStyles from '../styles/utils.module.css'
+import utilStyles from '../styles/Utils.module.css'
 import Link from 'next/link'
 
 const name = 'Ali Chraibi'
